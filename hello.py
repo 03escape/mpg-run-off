@@ -7,6 +7,7 @@
 # 6. furmula
 #     10400 per year / 52 = miles per week = 200/ current mpg of 22 = gallons per week 9.09 x cost of fuel= 3.45x9.09=31.36d mpg
 # out put how long to pay backtotal miles driven a year /current mpg.  take gallons per year  x price per gallon. compair with same same formula and change mpg to estimate mpg.
+# test 
 
 carOneMpg = input('current car mpg: ')
 print (carOneMpg)
